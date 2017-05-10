@@ -1,17 +1,17 @@
 
 
-##PROJECT 2:  BUILD A PORTFOLIO SITE
+**PROJECT 2:  BUILD A PORTFOLIO SITE**
 
-##ABOUT
+**ABOUT**
  Udacity Full Stack web developer Nanodegree Project 2 build a portfolio. Replicating a design mockup a PDF- file in HTML, CSS and Bootstrap. 
     
 **AUTHOR**: Dejen Wogayehu <br>
 **COURSE**: Programming Foundations with HTML5,CSS3 & BOOTSTRAP <br>
 **PROGRAM**: Udacity - Full Stack Web Developer Nanodegree<br>
 
-  **LIVE DEMO SITE**: https://dejenwo.github.io/buildaportfolio/
+  **LIVE DEMO SITE**: https://dejenwo.github.io/Dejen-Wogayehu/
 
-##**Syllabus**
+**Syllabus**
 **Lesson 1 - From Design to Code**
 Diligently employ a code/test/refine strategy as you precisely and deliberately translate initial design documents into static web
 pages. You'll also investigate the Document Object Model (DOM) and its implications for web development.
